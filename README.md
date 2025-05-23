@@ -8,3 +8,6 @@ The duration of a dah is three times the duration of a dit (although some telegr
 # Visualization
 
 ![morse-code](/img/morsecode.jpg)
+
+# Implementation
+Since all the characters are identified by the dots and dashes , I used dictionary for the morse code and also added audio file to read the audio and preprocess it to from dots and dashes to decode it into original text.
